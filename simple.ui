@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1004</width>
+    <width>1001</width>
     <height>969</height>
    </rect>
   </property>
@@ -57,7 +57,7 @@ QGroupBox {
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap>C:/Users/jhora/Downloads/XU_logo_type_ver_2.png</pixmap>
+      <pixmap>images/xu logo.png</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -76,7 +76,7 @@ QGroupBox {
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap>C:/Users/jhora/Downloads/2023_Facebook_icon.svg.png</pixmap>
+      <pixmap>images/facebook.png</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -95,7 +95,7 @@ QGroupBox {
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap>C:/Users/jhora/Downloads/Logo_of_Twitter.svg.webp</pixmap>
+      <pixmap>images/twitter logo.webp</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -114,7 +114,7 @@ QGroupBox {
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap>C:/Users/jhora/Downloads/images (1).jpg</pixmap>
+      <pixmap>images/ig logo.jpg</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -368,7 +368,7 @@ p, li { white-space: pre-wrap; }
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/jhora/Downloads/09242024.Web.Banner_-_XU_Autonomous_Status_-_Website_Banner.jpg</pixmap>
+     <pixmap>images/autonomous.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -424,7 +424,7 @@ p, li { white-space: pre-wrap; }
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap>C:/Users/jhora/Downloads/ba3b4e33a2dd3e25a3b805da4cdcf437-01182025.Web.Thumbnail_-_Kinaiyahan_-_spotlight_thumbnail_-_1_Dec_2024.jpg</pixmap>
+      <pixmap>images/tree planted.jpg</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -443,7 +443,7 @@ p, li { white-space: pre-wrap; }
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap>C:/Users/jhora/Downloads/f1df0d00b74efa9c8f9dcc358b0bc1b2-05242023.Web.DSC05387.jpg</pixmap>
+      <pixmap>images/field.jpg</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -462,7 +462,7 @@ p, li { white-space: pre-wrap; }
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap>C:/Users/jhora/Downloads/393681259c802828922a8497adf5bb03-05252024.Web_-_New_CampusThumbnail.jpg</pixmap>
+      <pixmap>images/new campus.jpg</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -633,7 +633,7 @@ QGroupBox {
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>C:/Users/jhora/Downloads/XU_logo_type_ver_2.png</pixmap>
+       <pixmap>images/xu logo.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -652,7 +652,7 @@ QGroupBox {
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>C:/Users/jhora/Downloads/2023_Facebook_icon.svg.png</pixmap>
+       <pixmap>images/facebook.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -671,7 +671,7 @@ QGroupBox {
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>C:/Users/jhora/Downloads/Logo_of_Twitter.svg.webp</pixmap>
+       <pixmap>images/twitter logo.webp</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -690,7 +690,7 @@ QGroupBox {
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>C:/Users/jhora/Downloads/images (1).jpg</pixmap>
+       <pixmap>images/ig logo.jpg</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -726,7 +726,7 @@ Corrales Avenue, Cagayan de Oro City, Philippines</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1004</width>
+     <width>1001</width>
      <height>21</height>
     </rect>
    </property>
